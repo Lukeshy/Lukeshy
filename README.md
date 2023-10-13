@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lukeshy
 - 👀 I’m interested in Data Science,Machine Learning and AI
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on knowlwdge that could benefit my learning process
+- 💞️ I’m looking to collaborate on knowledge that could benefit my learning process
 - 📫 How to reach me: on twitter through @i_am_lukeshy or email me on lukeshy4real@gmail.com
 
 <!---
